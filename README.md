@@ -1,7 +1,6 @@
 <H3>NAME: DHARSHAN V</H3>
 <H3>REGISTER NO: 212222230031</H3>
 <H3>EX. NO.4</H3>
-<H3>DATE:11.00.2024</H3>
 <H1 ALIGN =CENTER> Implementation of Hidden Markov Model</H1>
 
 ## Aim: 
